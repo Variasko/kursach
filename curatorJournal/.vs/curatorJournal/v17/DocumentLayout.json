@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\curatorJournal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F974C98-47A9-4D13-8677-DA4FDC1C892F}|curatorJournal\\curatorJournal.csproj|c:\\users\\admin\\source\\repos\\curatorjournal\\curatorjournal\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F974C98-47A9-4D13-8677-DA4FDC1C892F}|curatorJournal\\curatorJournal.csproj|solutionrelative:curatorjournal\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F974C98-47A9-4D13-8677-DA4FDC1C892F}|curatorJournal\\curatorJournal.csproj|c:\\users\\admin\\source\\repos\\curatorjournal\\curatorjournal\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{7F974C98-47A9-4D13-8677-DA4FDC1C892F}|curatorJournal\\curatorJournal.csproj|solutionrelative:curatorjournal\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\curatorJournal\\curatorJournal\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "curatorJournal\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\curatorJournal\\curatorJournal\\MainWindow.xaml",
+              "RelativeToolTip": "curatorJournal\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T08:25:45.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\curatorJournal\\curatorJournal\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "curatorJournal\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\curatorJournal\\curatorJournal\\MainWindow.xaml.cs",
+              "RelativeToolTip": "curatorJournal\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T08:49:55.343Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
