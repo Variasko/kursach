@@ -1,13 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\curatorJournal\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\GitHub\\kursach\\curatorJournal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F974C98-47A9-4D13-8677-DA4FDC1C892F}|curatorJournal\\curatorJournal.csproj|c:\\users\\admin\\source\\repos\\curatorjournal\\curatorjournal\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7F974C98-47A9-4D13-8677-DA4FDC1C892F}|curatorJournal\\curatorJournal.csproj|c:\\users\\admin\\documents\\github\\kursach\\curatorjournal\\curatorjournal\\socialpassportpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F974C98-47A9-4D13-8677-DA4FDC1C892F}|curatorJournal\\curatorJournal.csproj|solutionrelative:curatorjournal\\socialpassportpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F974C98-47A9-4D13-8677-DA4FDC1C892F}|curatorJournal\\curatorJournal.csproj|c:\\users\\admin\\documents\\github\\kursach\\curatorjournal\\curatorjournal\\memupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F974C98-47A9-4D13-8677-DA4FDC1C892F}|curatorJournal\\curatorJournal.csproj|solutionrelative:curatorjournal\\memupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F974C98-47A9-4D13-8677-DA4FDC1C892F}|curatorJournal\\curatorJournal.csproj|c:\\users\\admin\\documents\\github\\kursach\\curatorjournal\\curatorjournal\\menuframewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F974C98-47A9-4D13-8677-DA4FDC1C892F}|curatorJournal\\curatorJournal.csproj|solutionrelative:curatorjournal\\menuframewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F974C98-47A9-4D13-8677-DA4FDC1C892F}|curatorJournal\\curatorJournal.csproj|c:\\users\\admin\\documents\\github\\kursach\\curatorjournal\\curatorjournal\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7F974C98-47A9-4D13-8677-DA4FDC1C892F}|curatorJournal\\curatorJournal.csproj|solutionrelative:curatorjournal\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F974C98-47A9-4D13-8677-DA4FDC1C892F}|curatorJournal\\curatorJournal.csproj|c:\\users\\admin\\source\\repos\\curatorjournal\\curatorjournal\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{7F974C98-47A9-4D13-8677-DA4FDC1C892F}|curatorJournal\\curatorJournal.csproj|c:\\users\\admin\\documents\\github\\kursach\\curatorjournal\\curatorjournal\\menuframewindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{7F974C98-47A9-4D13-8677-DA4FDC1C892F}|curatorJournal\\curatorJournal.csproj|solutionrelative:curatorjournal\\menuframewindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F974C98-47A9-4D13-8677-DA4FDC1C892F}|curatorJournal\\curatorJournal.csproj|c:\\users\\admin\\documents\\github\\kursach\\curatorjournal\\curatorjournal\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{7F974C98-47A9-4D13-8677-DA4FDC1C892F}|curatorJournal\\curatorJournal.csproj|solutionrelative:curatorjournal\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     }
   ],
@@ -23,24 +39,69 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\curatorJournal\\curatorJournal\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "curatorJournal\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\curatorJournal\\curatorJournal\\MainWindow.xaml",
-              "RelativeToolTip": "curatorJournal\\MainWindow.xaml",
+              "Title": "SocialPassportPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\kursach\\curatorJournal\\curatorJournal\\SocialPassportPage.xaml",
+              "RelativeDocumentMoniker": "curatorJournal\\SocialPassportPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\kursach\\curatorJournal\\curatorJournal\\SocialPassportPage.xaml",
+              "RelativeToolTip": "curatorJournal\\SocialPassportPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-05T08:25:45.684Z",
+              "WhenOpened": "2024-04-09T10:04:26.79Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuFrameWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\kursach\\curatorJournal\\curatorJournal\\MenuFrameWindow.xaml.cs",
+              "RelativeDocumentMoniker": "curatorJournal\\MenuFrameWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\kursach\\curatorJournal\\curatorJournal\\MenuFrameWindow.xaml.cs",
+              "RelativeToolTip": "curatorJournal\\MenuFrameWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T09:55:19.14Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MemuPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\kursach\\curatorJournal\\curatorJournal\\MemuPage.xaml",
+              "RelativeDocumentMoniker": "curatorJournal\\MemuPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\kursach\\curatorJournal\\curatorJournal\\MemuPage.xaml",
+              "RelativeToolTip": "curatorJournal\\MemuPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T09:53:03.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuFrameWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\kursach\\curatorJournal\\curatorJournal\\MenuFrameWindow.xaml",
+              "RelativeDocumentMoniker": "curatorJournal\\MenuFrameWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\kursach\\curatorJournal\\curatorJournal\\MenuFrameWindow.xaml",
+              "RelativeToolTip": "curatorJournal\\MenuFrameWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T07:33:08.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\kursach\\curatorJournal\\curatorJournal\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "curatorJournal\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\kursach\\curatorJournal\\curatorJournal\\MainWindow.xaml",
+              "RelativeToolTip": "curatorJournal\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T08:25:45.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\curatorJournal\\curatorJournal\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\kursach\\curatorJournal\\curatorJournal\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "curatorJournal\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\curatorJournal\\curatorJournal\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\kursach\\curatorJournal\\curatorJournal\\MainWindow.xaml.cs",
               "RelativeToolTip": "curatorJournal\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAlwBUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T08:49:55.343Z"
             }

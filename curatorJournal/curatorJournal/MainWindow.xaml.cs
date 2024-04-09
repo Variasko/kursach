@@ -19,6 +19,14 @@ namespace curatorJournal
         public MainWindow()
         {
             InitializeComponent();
+            
+        }
+
+        private void signInButton_Click(object sender, RoutedEventArgs e)
+        {
+            MenuFrameWindow menuFrameWindow = new MenuFrameWindow();
+            menuFrameWindow.Show();
+            Close();
         }
     }
 }

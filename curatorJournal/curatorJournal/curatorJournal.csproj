@@ -8,4 +8,12 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="res\logo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="res\logo.png" />
+  </ItemGroup>
+
 </Project>
