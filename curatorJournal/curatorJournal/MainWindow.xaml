@@ -1,31 +1,12 @@
-﻿<Window x:Class="curatorJournal.MainWindow"
+﻿<Window x:Class="CuratorJournal.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:curatorJournal"
+        xmlns:local="clr-namespace:CuratorJournal"
         mc:Ignorable="d"
-        Background="#f5c9ac"
-        Title="Авторизация" Height="250" Width="450">
+        Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition/>
-            <RowDefinition/>
-            <RowDefinition/>
-        </Grid.RowDefinitions>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-        </Grid.ColumnDefinitions>
-
-        <Label Content="Логин" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" Foreground="White"/>
-        <Label Content="Пароль" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" Foreground="White"/>
-
-        <TextBox x:Name="loginEnter" Grid.Row="0" Grid.Column="1" Margin="20" FontSize="20" Text="1"/>
-        <TextBox x:Name="passwordEnter" Grid.Row="1" Grid.Column="1" Margin="20" FontSize="20" Text="1"/>
-
-        <Button x:Name="signInButton" Content="Войти" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Margin="100 15" Click="signInButton_Click" Background="#cc5e6c" Foreground="White" FontSize="20"/>
-
+        
     </Grid>
-
 </Window>

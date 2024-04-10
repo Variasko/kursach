@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "curatorJournal", "curatorJournal\curatorJournal.csproj", "{7F974C98-47A9-4D13-8677-DA4FDC1C892F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuratorJournal", "CuratorJournal\CuratorJournal.csproj", "{64AA3591-C05F-42D0-824A-9A5230D49C31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7F974C98-47A9-4D13-8677-DA4FDC1C892F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7F974C98-47A9-4D13-8677-DA4FDC1C892F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7F974C98-47A9-4D13-8677-DA4FDC1C892F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7F974C98-47A9-4D13-8677-DA4FDC1C892F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64AA3591-C05F-42D0-824A-9A5230D49C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64AA3591-C05F-42D0-824A-9A5230D49C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64AA3591-C05F-42D0-824A-9A5230D49C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64AA3591-C05F-42D0-824A-9A5230D49C31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A3B4461F-C4D7-4667-87BA-C18D246DA925}
+		SolutionGuid = {7BF3C50D-3838-494A-9611-1FC81303ABE7}
 	EndGlobalSection
 EndGlobal
